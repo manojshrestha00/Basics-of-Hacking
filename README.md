@@ -10,7 +10,7 @@ Hacking and Security questions answers with explantions for  begineers Hackers,
 
 ☞Explanation = White Hat Hacker exploit the vulnerabilities in a system by hacking into it with prior permission.
 
-▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪
+--------------------------------------------
 
 2) The metasploit tool is primarily used in which phase of Ethical Hacking ?
 
