@@ -448,6 +448,14 @@ Hacking and Security questions answers with explantions for  begineers Hackers,
 
 Congratulations ! You learned it❤
 
+
+#Thanks for reading !
+
+#Don't forget to follow me !
+
+#Happy Hacking !
+
+
 # ☞Social Media Links:
 
 Facebook: https://www.facebook.com/manojshrestha00
